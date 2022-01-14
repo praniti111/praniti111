@@ -17,3 +17,10 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=praniti111&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praniti111&show_icons=true&theme=radical" width="42%" >
+</div>
+
+<br/>
+
