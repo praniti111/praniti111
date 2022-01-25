@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate with Front-end Developers
 - 🤔 I’m looking for help with NLP
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/praniti-parmar/)
+- Problems Solved: [Leetcode](https://leetcode.com/ppraniti/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Getting started with GitHub
 
