@@ -7,7 +7,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/praniti-parmar/)
 - 👨‍💻 Problems Solved: [Leetcode](https://leetcode.com/ppraniti/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ppraniti526/profile)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Getting started with GitHub
+- ⚡ Fun fact: Getting started with Github.
 
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/praniti111/count.svg?align=center)
