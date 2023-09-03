@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate with Front-end Developers
 - 🤔 I’m looking for help with NLP
+- 💁‍♀️ Portfolio: [Portfolio](https://bento.me/praniti-parmar)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/praniti-parmar/)
 - 👨‍💻 Problems Solved: [Leetcode](https://leetcode.com/ppraniti/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ppraniti526/profile)
 - 😄 Pronouns: She/Her
